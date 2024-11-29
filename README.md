@@ -26,7 +26,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone this repository:
    ```
-   git clone <repository_link>
+   git clone https://github.com/MUGK1/Oil-Reserves-and-Consumption-Analysis-with-Predictive-Modeling.git
    ```
 2. Navigate to the project directory:
    ```
