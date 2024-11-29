@@ -41,10 +41,8 @@ Ensure you have the following installed:
 
 ### Usage
 To run the analysis and predictions locally, use the following commands:
-1. **Run the main script**:
-   ```
-   python main.py
-   ```
+1. **Run the main script**
+  
 2. **Jupyter Notebook**: If you prefer using a Jupyter Notebook, open the provided `.ipynb` file and execute the cells sequentially.
 
 ### Example
