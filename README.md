@@ -30,7 +30,7 @@ Ensure you have the following installed:
    ```
 2. Navigate to the project directory:
    ```
-   cd oil-consumption-analysis
+   cd oil-consumption-analysis-code
    ```
 3. Install the required dependencies:
    ```
